@@ -2,12 +2,12 @@
 nodejs tdd - Unit testing and Integration testing
 
 ## 2 project
-test-tdd Unit testing
-test-tdd-2 Unit testing and Integration testing
+- test-tdd Unit testing
+- test-tdd-2 Unit testing and Integration testing
 
 ## Install
 ```
-    yarn install
+yarn install
 ```
 
 ## Deploy
